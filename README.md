@@ -18,7 +18,5 @@ Se você veio do portfólio, você já sabe disso!
 <div align="center">
   <img src="https://southamerica-east1-java-functions.cloudfunctions.net/random-image">
 </div>
-<div align="center">
-  <img src="https://southamerica-east1-java-functions.cloudfunctions.net/random-image">
-</div>
+
 ---
