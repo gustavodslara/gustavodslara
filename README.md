@@ -1,16 +1,22 @@
-### Hi there 👋
+# :feelsgood: Gustavo Lara 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gustavo-silvalara)](https://github.com/gustavo-silvalara)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-lara-8a4a58185/)](https://www.linkedin.com/in/gustavo-lara-8a4a58185/)
 
-<!--
-**gustavo-silvalara/gustavo-silvalara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá :tongue: 
+Meu nome é Gustavo Lara, sou desenvolvedor e em 2020 termino minha graduação em Sistemas para Internet no IFMT.
 
-Here are some ideas to get you started:
+Se você veio do portfólio, você já sabe disso!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :office: Desenvolvedor de apps na [Ábaco](https://www.abaco.com.br/)
+- :computer: Java, Angular, Ionic e Flutter
+- :books: Estudando muuito sobre o Flutter
+
+> :octocat: [gustavo-lara.codes](https://gustavo-lara.codes)
+
+---
+
+<div align="center">
+  <img src="https://southamerica-east1-java-functions.cloudfunctions.net/random-image">
+</div>
+
+---
