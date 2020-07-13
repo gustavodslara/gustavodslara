@@ -15,9 +15,9 @@ Se você veio do portfólio, você já sabe disso!
 
 ---
 
-<div align="center">
+<div align="center" style="max-width:100px;max-height:100px">
   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-  <img src="https://southamerica-east1-java-functions.cloudfunctions.net/random-image">
+  <img src="https://southamerica-east1-java-functions.cloudfunctions.net/random-dev-image">
 </div>
 
 ---
