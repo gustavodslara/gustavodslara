@@ -1,8 +1,8 @@
-# :feelsgood: Gustavo Lara 
+# Gustavo Lara 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gustavo-silvalara)](https://github.com/gustavo-silvalara)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-lara-8a4a58185/)](https://www.linkedin.com/in/gustavo-lara-8a4a58185/)
 
-## Olá :tongue: 
+## Olá :feelsgood: 
 Meu nome é Gustavo Lara, sou desenvolvedor e em 2020 termino minha graduação em Sistemas para Internet no IFMT.
 
 Se você veio do portfólio, você já sabe disso!
