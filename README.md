@@ -3,11 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-lara-8a4a58185/)](https://www.linkedin.com/in/gustavo-lara-8a4a58185/)
 
 ## Olá :feelsgood: 
-Meu nome é Gustavo Lara, sou desenvolvedor e em 2020 termino minha graduação em Sistemas para Internet no IFMT.
+Meu nome é Gustavo Lara, sou desenvolvedor e em 2021 termino minha graduação em Sistemas para Internet no IFMT.
 
 Se você veio do portfólio, você já sabe disso!
 
-- :office: Desenvolvedor de apps na [Ábaco](https://www.abaco.com.br/)
+- :office: Desenvolvedor no [TCE-MT](https://www.tce.mt.gov.br/)
 - :computer: Java, Angular, Ionic e Flutter
 - :books: Estudando muuito sobre o Flutter
 
