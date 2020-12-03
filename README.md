@@ -17,7 +17,7 @@ Se você veio do portfólio, você já sabe disso!
 
 <div align="center">
   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-  <img src="https://southamerica-east1-java-functions.cloudfunctions.net/random-dev-image">
+  <img src="https://southamerica-east1-gcpjavamemes.cloudfunctions.net/gcpmemesdedev">
 </div>
 
 ---
