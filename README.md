@@ -11,7 +11,7 @@ Se você veio do portfólio, você já sabe disso!
 - :computer: Java, Angular, Ionic e Flutter
 - :books: Estudando muuito sobre o Flutter
 
-> :octocat: [gustavo-lara.codes](https://gustavolara.me)
+> :octocat: [gustavolara.me](https://gustavolara.me)
 
 ---
 
