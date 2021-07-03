@@ -7,7 +7,7 @@ Meu nome é Gustavo Lara, sou desenvolvedor e em 2021 termino minha graduação 
 
 Se você veio do portfólio, você já sabe disso!
 
-- :office: Desenvolvedor no [TCE-MT](https://www.tce.mt.gov.br/)
+- :office: Desenvolvedor na [Accenture](https://www.accenture.com/br-pt)
 - :computer: Java, Angular, Ionic e Flutter
 - :books: Estudando muuito sobre o Flutter
 
