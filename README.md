@@ -8,7 +8,7 @@ Minha experiência abrange projetos desafiadores e contribuições valiosas em d
 
 - :office: Desenvolvedor na [QIMA](https://www.qima.com/)
 - :computer: Java, Angular, Ionic e Flutter
-- :books: Estudando IA's
+- :books: Estudando IA e ML
 
 > :octocat: [gustavodslara.tech](https://gustavodslara.tech)
 
