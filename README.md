@@ -1,15 +1,16 @@
 # Gustavo Lara 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gustavo-silvalara)](https://github.com/gustavo-silvalara)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-lara-8a4a58185/)](https://www.linkedin.com/in/gustavo-lara-8a4a58185/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gustavodslara)](https://github.com/gustavodslara)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavodslara)](https://www.linkedin.com/in/gustavodslara/)
 
 ## Olá
-Meu nome é Gustavo Lara, sou desenvolvedor e em 2021 termino minha graduação em Sistemas para Internet no IFMT.
+Meu nome é Gustavo Lara, sou um desenvolvedor sênior com uma sólida carreira, enfatizando autodidatismo, produtividade e liderança.
+Minha experiência abrange projetos desafiadores e contribuições valiosas em diversas empresas.
 
-- :office: Desenvolvedor na [Accenture](https://www.accenture.com/br-pt)
+- :office: Desenvolvedor na [QIMA](https://www.qima.com/)
 - :computer: Java, Angular, Ionic e Flutter
-- :books: Estudando muuito sobre o Flutter
+- :books: Estudando IA's
 
-> :octocat: [gustavolara.me](https://gustavolara.me)
+> :octocat: [gustavodslara.tech](https://gustavodslara.tech)
 
 ---
 
