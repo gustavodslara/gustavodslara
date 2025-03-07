@@ -12,6 +12,6 @@ Minha experiência abrange projetos desafiadores e contribuições valiosas em d
 - :computer: Java, Angular, Ionic e Flutter
 - :books: Estudando IA, ML e Unreal Engine 5
 
-> :octocat: [gustavodslara.github.io]([https://gustavodslara.tech](https://gustavodslara.github.io/gustavo-silvalara.github.io/))
+> :octocat: [gustavodslara.github.io]([https://gustavodslara.tech](https://gustavodslara.github.io/gustavo-silvalara.github.io/)
 
 ---
