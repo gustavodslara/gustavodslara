@@ -6,17 +6,12 @@
 Meu nome é Gustavo Lara, sou um desenvolvedor sênior com uma sólida carreira, enfatizando autodidatismo, produtividade e liderança.
 Minha experiência abrange projetos desafiadores e contribuições valiosas em diversas empresas.
 
-- :office: Desenvolvedor na [QIMA](https://www.qima.com/)
+- :office: Engenheiro de Software na [QIMA](https://www.qima.com/)
 - :computer: Java, Angular, Ionic e Flutter
-- :books: Estudando IA e ML
+- :books: Estudando IA,ML e Unreal Engine 5
 
-> :octocat: [gustavodslara.tech](https://gustavodslara.tech)
+> :octocat: [gustavodslara.github.io]([https://gustavodslara.tech](https://gustavodslara.github.io/gustavo-silvalara.github.io/))
 
 ---
-
-<div align="center">
-  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-  <img src="https://southamerica-east1-gcpjavamemes.cloudfunctions.net/gcpmemesdedev">
-</div>
 
 ---
